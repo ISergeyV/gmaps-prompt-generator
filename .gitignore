@@ -1,0 +1,16 @@
+#Python artifacts
+pycache/
+*.py[cod]
+*$py.class
+
+#Virtual Environment (NEVER commit this)
+venv/
+env/
+.venv/
+
+#Environment Variables (SECRETS - NEVER commit this)
+.env
+
+#Editor settings
+.vscode/
+.idea/
